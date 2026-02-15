@@ -1,7 +1,10 @@
-/* L'ALGO de wikipedia ne précisait pas si c'était N inclu ou exclu, du coup j'ai initialisé à N+1 
-    (si N=11, on inclu le nombre premier 11 dans le calcul)
+/* @auteur ANIS LAFRAD CDA 
 
-    PS : Aucune IA n'a été utilisée, juste Wikipedia + une vidéo d'Yvan Monka ;)
+L'ALGO de wikipedia ne précisait pas si c'était N inclu ou exclu, du coup j'ai initialisé à N+1 
+(si N=11, on inclu le nombre premier 11 dans le calcul)
+
+PS : Aucune IA n'a été utilisée, juste Wikipedia + une vidéo d'Yvan Monka ;)
+
 */
 
 #include <stdio.h>
